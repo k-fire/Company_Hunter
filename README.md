@@ -14,5 +14,5 @@
 119.48.74.243
 ```
 运行截图：
-![运行截图](https://raw.githubusercontent.com/k-fire/Company_Hunter/main/main.jpg)
+![运行截图](https://raw.githubusercontent.com/k-fire/Company_Hunter/main/main.png)
 
